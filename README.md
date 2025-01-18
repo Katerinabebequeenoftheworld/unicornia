@@ -1,4 +1,4 @@
 # Unicornia
 
 ### Our team
-![[team.jpg]]
+[[team.jpg]]
